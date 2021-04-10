@@ -6,4 +6,9 @@ Created on Sat Mar 27 12:07:37 2021
 """
 import streamlit as st
 
-st.title('Trail')
+
+def main():
+  st.title('Trail')
+  
+if __name__ == "__main__":
+    main()
